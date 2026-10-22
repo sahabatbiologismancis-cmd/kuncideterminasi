@@ -1,0 +1,41 @@
+[
+  {
+    "id": "nanas",
+    "localName": "Nanas",
+    "scientificName": "Ananas comosus",
+    "family": "Bromeliaceae",
+    "morphology": {
+      "leafVenation": "sejajar",
+      "leafShape": "memanjang seperti pita",
+      "habit": "herba berdaun roset"
+    },
+    "verificationStatus": "contoh-belum-divalidasi",
+    "notes": "Tepi daun dapat berduri atau hampir tanpa duri menurut kultivar. Periksa roset dan ciri lain; tulang sejajar saja tidak cukup."
+  },
+  {
+    "id": "singkong",
+    "localName": "Singkong",
+    "scientificName": "Manihot esculenta",
+    "family": "Euphorbiaceae",
+    "morphology": {
+      "leafVenation": "menjala, menjari",
+      "leafShape": "menjari dengan lekukan dalam",
+      "habit": "perdu berbatang tegak"
+    },
+    "verificationStatus": "contoh-belum-divalidasi",
+    "notes": "Jumlah lobus bervariasi. Jangan menyimpulkan identitas hanya dari satu daun."
+  },
+  {
+    "id": "ubi-jalar",
+    "localName": "Ubi jalar",
+    "scientificName": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "morphology": {
+      "leafVenation": "menjala",
+      "leafShape": "bervariasi, antara lain menyerupai jantung atau berlekuk",
+      "habit": "herba menjalar"
+    },
+    "verificationStatus": "contoh-belum-divalidasi",
+    "notes": "Kunci demo memakai contoh daun yang tidak menjari berlekuk dalam. Kultivar berdaun berlekuk dalam mungkin tidak cocok dengan kunci ini."
+  }
+]

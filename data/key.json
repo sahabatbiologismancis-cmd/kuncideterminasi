@@ -1,0 +1,40 @@
+{
+  "start": "1",
+  "nodes": {
+    "1": {
+      "question": "Bagaimana pola tulang daun yang terlihat?",
+      "options": [
+        {
+          "label": "Sejajar; daun memanjang tersusun roset",
+          "next": "nanas"
+        },
+        {
+          "label": "Menjala atau menjari",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "question": "Bagaimana bentuk daun dan arah tumbuh batang?",
+      "options": [
+        {
+          "label": "Daun menjari berlekuk dalam; batang tegak seperti perdu",
+          "next": "singkong"
+        },
+        {
+          "label": "Daun tidak menjari berlekuk dalam; batang menjalar",
+          "next": "ubi-jalar"
+        }
+      ]
+    },
+    "nanas": {
+      "plantId": "nanas"
+    },
+    "singkong": {
+      "plantId": "singkong"
+    },
+    "ubi-jalar": {
+      "plantId": "ubi-jalar"
+    }
+  }
+}
